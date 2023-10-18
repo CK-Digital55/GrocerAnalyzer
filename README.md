@@ -10,7 +10,7 @@
 * Easy Exit: A straightforward option to close the application when done.
 
 # Technical Highlights
-# Data is efficiently managed using a map that pairs items to their frequencies.
+* Data is efficiently managed using a map that pairs items to their frequencies.
 * Modular design with the GrocerAnalyzer class encapsulating core functionalities.
 * Comprehensive file I/O operations for data persistence. 
 
