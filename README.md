@@ -1,7 +1,7 @@
 # GrocerAnalyzer
 
 # Overview
-*The Grocer Analyzer Application provides in-depth analysis on grocery purchase frequencies. Designed primarily to assist the Corner Grocer, this tool offers insights into the sales frequency of various products, empowering businesses to optimize their produce section layout.
+* The Grocer Analyzer Application provides in-depth analysis on grocery purchase frequencies. Designed primarily to assist the Corner Grocer, this tool offers insights into the sales frequency of various products, empowering businesses to optimize their produce section layout.
 
 # Features
 * Check Frequency: Input a specific item's name to retrieve the number of times it has been purchased.
